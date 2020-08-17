@@ -25,12 +25,10 @@ def literal_aoh
   # held in the constants
   
  array = [
-    DON_G[:name][:occupation], 
-    JOELLE_VD[:name], 
-    PAT_M[:name], 
-    KATE_G[:name], 
-    BRUCE_G[:name]
-    ]
+   {:name => "Don Gately", :occupation => "Live-in Staff"}
+   {:name => "Joelle van Dyne", :occupation => "Radio Personality"}
+   ]
+ 
     
 end
 
