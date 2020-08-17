@@ -17,7 +17,6 @@ def assembled_aoh
     BRUCE_G
     ]
     
-    array[0]
 end
 
 def literal_aoh
