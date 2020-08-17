@@ -16,6 +16,8 @@ def assembled_aoh
     KATE_G, 
     BRUCE_G
     ]
+    
+    array[0]
 end
 
 def literal_aoh
